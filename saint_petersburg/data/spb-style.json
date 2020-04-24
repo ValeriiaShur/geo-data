@@ -1,0 +1,25 @@
+{
+  "version": 4,
+  "sprite": "",
+  "glyphs": "",
+  "constants": {
+    "@land": "rgb(244,239,225)",
+    "@water": "#cdd"
+  },
+  "sources": {
+    "nycBuildings": {
+      "type": "vector",
+      "url": "http://github.com/ValeriiaShur/geo-data/saint_petersburg/data/spb-mn-tiles.tilejson",
+      "maxZoom": 14
+    }
+  },
+  "layers": [
+    {
+        "id": "background",
+        "style": {
+          "background-color": "@land"
+        },
+        "type": "background"
+    }
+    ]
+}

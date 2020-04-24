@@ -1,0 +1,31 @@
+{
+    "tilejson": "2.0.0",
+
+    "name": "compositing",
+
+    "description": "SPB Buildings",
+
+    "version": "1.0.0",
+
+    "attribution": "",
+
+    "legend": "",
+
+    "scheme": "xyz",
+
+    "tiles": [
+        "http://github.com/ValeriiaShur/geo-data/saint_petersburg/data/tiles/buildings_spb/{z}/{x}/{y}.pbf"
+    ],
+
+    "grids": [
+        "http://localhost:8888/admin/1.0.0/broadband/{z}/{x}/{y}.grid.json"
+    ],
+
+    "minzoom": 8,
+
+    "maxzoom": 11,
+
+    "bounds": [ 29.429083, 59.646031, 30.725480, 60.244480 ],
+
+    "center": [ 30.355225, 59.938504,14, 8 ]
+}
