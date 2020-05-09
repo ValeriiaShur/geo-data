@@ -1,0 +1,39 @@
+{
+	"bounds":[29.421387,59.64554,30.72876,60.245264],
+	"center":[30.075074,59.945402,9],
+	"created":1588075312169,
+	"filesize":173156707,
+	"format":"pbf",
+	"id":"lerashur.spb-buildings",
+	"mapbox_logo":true,
+	"maxzoom":15,
+	"minzoom":9,
+	"modified":1588075605714,
+	"mts":true,
+	"name":"spb buildings",
+	"private":true,
+	"scheme":"xyz",
+	"tilejson":"2.2.0",
+	"tiles":[
+			"https://a.tiles.mapbox.com/v4/lerashur.spb-buildings/{z}/{x}/{y}.vector.pbf?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2s5anl3cHZ0MDM2ZTNmdWh3Z3B6eHNnYSJ9.Kdnf84yFpQVhLgVTlZeU-A",
+			"https://b.tiles.mapbox.com/v4/lerashur.spb-buildings/{z}/{x}/{y}.vector.pbf?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2s5anl3cHZ0MDM2ZTNmdWh3Z3B6eHNnYSJ9.Kdnf84yFpQVhLgVTlZeU-A"
+	],
+	"vector_layers":[
+		{"fields":{
+			"cartodb_id":"number",
+			"fid":"number",
+			"r_adress":"string",
+			"r_architec":"string",
+			"r_cw_photo":"string",
+			"r_style":"string",
+			"r_year_date":"string"
+			},
+			"id":"building_footprints",
+			"maxzoom":22,
+			"minzoom":9,
+			"source":"lerashur.spb-buildings",
+			"source_name":"spb buildings"
+		}
+	],
+	"webpage":"https://a.tiles.mapbox.com/v4/lerashur.spb-buildings/page.html?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2s5anl3cHZ0MDM2ZTNmdWh3Z3B6eHNnYSJ9.Kdnf84yFpQVhLgVTlZeU-A"
+}
