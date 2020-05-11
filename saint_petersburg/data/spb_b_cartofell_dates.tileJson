@@ -8,15 +8,15 @@
 	"mapbox_logo":true,
 	"maxzoom":15,
 	"minzoom":9,
-	"modified":1588075605714,
+	"modified":1588666224970,
 	"mts":true,
 	"name":"spb buildings",
 	"private":true,
 	"scheme":"xyz",
 	"tilejson":"2.2.0",
 	"tiles":[
-			"https://a.tiles.mapbox.com/v4/lerashur.spb-buildings/{z}/{x}/{y}.vector.pbf?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2s5anl3cHZ0MDM2ZTNmdWh3Z3B6eHNnYSJ9.Kdnf84yFpQVhLgVTlZeU-A",
-			"https://b.tiles.mapbox.com/v4/lerashur.spb-buildings/{z}/{x}/{y}.vector.pbf?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2s5anl3cHZ0MDM2ZTNmdWh3Z3B6eHNnYSJ9.Kdnf84yFpQVhLgVTlZeU-A"
+			"http://a.tiles.mapbox.com/v4/lerashur.spb-buildings/{z}/{x}/{y}.vector.pbf?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2thMmg1MGFtMDM1NTNrbGtycTZkZnExeCJ9.No1i5ZhGEsxe4WojZAD07A",
+			"http://b.tiles.mapbox.com/v4/lerashur.spb-buildings/{z}/{x}/{y}.vector.pbf?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2thMmg1MGFtMDM1NTNrbGtycTZkZnExeCJ9.No1i5ZhGEsxe4WojZAD07A"
 	],
 	"vector_layers":[
 		{"fields":{
@@ -36,5 +36,5 @@
 			"source_name":"spb buildings"
 		}
 	],
-	"webpage":"https://a.tiles.mapbox.com/v4/lerashur.spb-buildings/page.html?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2s5anl3cHZ0MDM2ZTNmdWh3Z3B6eHNnYSJ9.Kdnf84yFpQVhLgVTlZeU-A"
+	"webpage":"http://a.tiles.mapbox.com/v4/lerashur.spb-buildings/page.html?access_token=sk.eyJ1IjoibGVyYXNodXIiLCJhIjoiY2thMmg1MGFtMDM1NTNrbGtycTZkZnExeCJ9.No1i5ZhGEsxe4WojZAD07A"
 }
