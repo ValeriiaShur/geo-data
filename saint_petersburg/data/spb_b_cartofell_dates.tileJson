@@ -26,7 +26,8 @@
 			"r_architec":"string",
 			"r_cw_photo":"string",
 			"r_style":"string",
-			"r_year_date":"string"
+			"r_year_date":"string",
+			"r_year_int":"number"
 			},
 			"id":"building_footprints",
 			"maxzoom":22,
