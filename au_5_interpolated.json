@@ -359,7 +359,7 @@
         {
           "arcs": [[3, 4, 5, 6, 7, -2, 8]],
           "type": "Polygon",
-          "properties": { "name": "Spittal an der Drau", "id": 3, "value": 50 }
+          "properties": { "name": "Spittal", "id": 3, "value": 50 }
         },
         {
           "arcs": [[-8, 9, 10, -3]],
