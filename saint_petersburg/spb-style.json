@@ -1,0 +1,25 @@
+{
+  "version": 4,
+  "sprite": "",
+  "glyphs": "",
+  "constants": {
+    "@land": "rgb(244,239,225)",
+    "@water": "#cdd"
+  },
+  "sources": {
+    "building_footprints": {
+      "type": "vector",
+      "url": "https://raw.githubusercontent.com/ValeriiaShur/geo-data/master/saint_petersburg/data/spb_b_cartofell_dates.tileJson?token=AK4T4RSH6MATBPGDU6KK56C6W2PCK",
+      "maxZoom": 15
+    }
+  },
+  "layers": [
+    {
+        "id": "background",
+        "style": {
+          "background-color": "@land"
+        },
+        "type": "background"
+    }
+    ]
+}
